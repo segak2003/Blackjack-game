@@ -1,9 +1,6 @@
 # Blackjack-game
 Blackjack game written in C++
 
-
-# Blackjack Game
-
 A simple console-based Blackjack game implemented in C++.
 
 ## Overview
